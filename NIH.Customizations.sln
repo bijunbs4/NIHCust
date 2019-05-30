@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.28917.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NIH.Customizations", "NIH.Customizations\NIH.Customizations.csproj", "{7B8E35E5-E31F-4160-B4EC-5F0E857B80EC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpWorkflowProject1", "CSharpWorkflowProject1\CSharpWorkflowProject1.csproj", "{27AF3DE4-5A36-436E-91D7-349E933486DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7B8E35E5-E31F-4160-B4EC-5F0E857B80EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B8E35E5-E31F-4160-B4EC-5F0E857B80EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B8E35E5-E31F-4160-B4EC-5F0E857B80EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27AF3DE4-5A36-436E-91D7-349E933486DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27AF3DE4-5A36-436E-91D7-349E933486DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27AF3DE4-5A36-436E-91D7-349E933486DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27AF3DE4-5A36-436E-91D7-349E933486DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
